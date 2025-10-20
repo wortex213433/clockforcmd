@@ -34,6 +34,7 @@ class ASCIIClock:
                 print("\n" + "=" * 80)
                 print("╔" + "═" * 78 + "╗")
                 print("║" + " " * 25 + "DIGITAL CLOCK" + " " * 40 + "║")
+                print("║" + " " * 25 + "by wortex213433" + " " * 38 + "║")
                 print("╚" + "═" * 78 + "╝")
                 print()
                 
@@ -57,6 +58,7 @@ class ASCIIClock:
                 print()
                 print("=" * 80)
                 print(" " * 25 + "Press Ctrl+C to exit")
+                print(" " * 28 + "Made by wortex213433") 
                 
                 time.sleep(1)
                 
@@ -79,6 +81,7 @@ class ASCIIClock:
                 print("\n" + "=" * 80)
                 print("╔" + "═" * 78 + "╗")
                 print("║" + " " * 26 + "ANALOG CLOCK" + " " * 40 + "║")
+                print("║" + " " * 25 + "by wortex213433" + " " * 38 + "║")
                 print("╚" + "═" * 78 + "╝")
                 print()
                 
@@ -151,6 +154,7 @@ class ASCIIClock:
                 print()
                 print("=" * 80)
                 print(" " * 25 + "Press Ctrl+C to exit")
+                print(" " * 28 + "Made by wortex213433")
                 
                 time.sleep(1)
                 
@@ -163,6 +167,7 @@ def main():
     
     print("\n" + "╔" + "═" * 48 + "╗")
     print("║" + " " * 16 + "ASCII CLOCK" + " " * 21 + "║")
+    print("║" + " " * 13 + "by wortex213433" + " " * 20 + "║")
     print("╚" + "═" * 48 + "╝")
     print("\n⏰ Choose clock type:")
     print("  1. Digital Clock")
